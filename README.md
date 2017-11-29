@@ -10,5 +10,5 @@
 
 ## NLP Interview Questions
 
-* [**30 Questions to test a data scientist on Natural Language Processing **](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
+* [**30 Questions to test a data scientist on Natural Language Processing**](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
 * [**Natural language processing engineer interview questions**](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
