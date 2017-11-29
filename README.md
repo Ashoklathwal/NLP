@@ -9,4 +9,6 @@
   * [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
 
 ## NLP Interview Questions
+
+* [**30 Questions to test a data scientist on Natural Language Processing **](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/)
 * [**Natural language processing engineer interview questions**](https://resources.workable.com/natural-language-processing-engineer-interview-questions)
